@@ -6,6 +6,8 @@ A demo on using Neocons Clojure REST wrapper for Neo4J using Translink/NIRailway
 
 Clone the repo and use leiningen to build and run. Can run via the REPL with no issues.
 
+You will require the community edition of Neo4J as well. Install and run the server then you can run the code.
+
 ## Current Status
 
 It's work in progress, I'm just building this as I get time and it will end up a blog post at some point.
